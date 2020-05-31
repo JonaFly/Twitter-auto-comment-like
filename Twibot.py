@@ -10,8 +10,8 @@ from selenium.webdriver.chrome.options import Options
 import time,random
 
 # Your login data and the keyword you want to search for in Twitter
-username = "zzy20013"
-password = "Shadow1900!"
+username = "youraccount"
+password = "yourpass"
 searchTerm = "whatyouwannasearch"
 sq=['comment text1','comment text2']
 
